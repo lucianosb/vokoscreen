@@ -3,23 +3,23 @@
     <name>QvkMail</name>
     <message>
         <source>Mail last Video</source>
-        <translation type="unfinished"/>
+        <translation>Enviar último vídeo</translation>
     </message>
     <message>
         <source>Mail one or more selected Video</source>
-        <translation type="unfinished"/>
+        <translation>Enviar um ou mais Vídeos selecionados</translation>
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"/>
+        <translation>Enviar</translation>
     </message>
     <message>
         <source>You find the Video as attachment</source>
-        <translation type="unfinished"/>
+        <translation>Você irá encontrar o video como anexo</translation>
     </message>
     <message>
         <source>Select one or more files</source>
-        <translation type="unfinished"/>
+        <translation>Selecione um ou mais arquivos</translation>
     </message>
 </context>
 <context>
@@ -45,11 +45,11 @@
     </message>
     <message>
         <source>Device is busy</source>
-        <translation type="unfinished"/>
+        <translation>Dispositivo está ocupado</translation>
     </message>
     <message>
         <source>Select webcam</source>
-        <translation type="unfinished"/>
+        <translation>Selecione webcam</translation>
     </message>
 </context>
 <context>
@@ -84,7 +84,7 @@
     </message>
     <message>
         <source>Default</source>
-        <translation type="unfinished"/>
+        <translation>Padrão</translation>
     </message>
     <message>
         <source>Codec</source>
@@ -92,7 +92,7 @@
     </message>
     <message>
         <source>Do not record mouse cursor</source>
-        <translation type="unfinished"/>
+        <translation>Não gravar o cursor do mouse</translation>
     </message>
     <message>
         <source>Videopath</source>
@@ -116,31 +116,31 @@
     </message>
     <message>
         <source>Pause</source>
-        <translation>pausa</translation>
+        <translation>Pausa</translation>
     </message>
     <message>
         <source>Play</source>
-        <translation type="unfinished"/>
+        <translation>Reproduzir</translation>
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"/>
+        <translation>Enviar</translation>
     </message>
     <message>
         <source>Recording time</source>
-        <translation type="unfinished"/>
+        <translation>Tempo de Gravação</translation>
     </message>
     <message>
         <source>Size in KB</source>
-        <translation type="unfinished"/>
+        <translation>Tamanho em KB</translation>
     </message>
     <message>
         <source>Recording screensize</source>
-        <translation type="unfinished"/>
+        <translation>Tamanho da tela de gravação</translation>
     </message>
     <message>
         <source>Format</source>
-        <translation type="unfinished"/>
+        <translation>Formato</translation>
     </message>
     <message>
         <source>Settings fps</source>
